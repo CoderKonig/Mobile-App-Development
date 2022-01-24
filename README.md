@@ -1,5 +1,5 @@
 # Mobile-App-Development
-Basic FLutter App
+Basic Flutter App
 
 Inesh Raj CSC 4360 
 MW 5:30pm
